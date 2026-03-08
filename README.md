@@ -1,4 +1,3 @@
-[timer-app (2).html](https://github.com/user-attachments/files/25823461/timer-app.2.html)
 <!DOCTYPE html>
 <html lang="ja">
 <head>
